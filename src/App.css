@@ -1,0 +1,33 @@
+body {
+    background: #c7f0a6;
+}
+
+.App {
+    background: rgb(63, 205, 162);
+    font-size: 25px;
+    margin-top: 10%;
+    text-align: center;
+    color: navy;
+}
+
+.App-title {
+    font-size: 45px;
+    color: navy;
+    padding-bottom: 50px;
+}
+
+.App-title span {
+    color: yellow;
+    font-weight: bold;
+}
+
+.App-days, .App-hours, .App-minutes, .App-seconds {
+    display: inline;
+    margin: 15px;
+    padding-bottom: 20px;
+}
+
+.Deadline-input {
+    font-size: 25px;
+    margin: 15px;
+}
